@@ -1,7 +1,7 @@
 # 🎯 Phishing Attack Simulation and Detection 🛡️
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/phishing_banner.png" alt="Phishing Simulation Banner" style="max-width: 100%; height: auto; width: 400px;">
+  <img src="https://github.com/TahasinCodes/Phishing-Attack-Simulation-and-Detection/blob/main/Phishing%20Attack%20Simulation%20and%20Detection.png" alt="Phishing Simulation Banner" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
 <h1 align="center">⚠️ Phishing Attack Simulation & Detection 🔍</h1>
@@ -94,4 +94,5 @@ Cybersecurity Enthusiast
 
 📜 License
 This project is licensed under the MIT License – use, modify, and contribute with credits!
+
 ```
